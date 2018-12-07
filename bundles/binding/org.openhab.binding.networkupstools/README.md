@@ -5,7 +5,7 @@ The primary goal of the [Network UPS Tools](http://www.networkupstools.org/) (NU
 Network UPS Tools (NUT) provides many control and monitoring features, with a uniform control and management interface.
 More than 100 different manufacturers, and several thousands of models are compatible.
 
-This binding lets you integrate NUT servers with openHAB.
+This binding lets you integrate NUT servers with openHAB and is a replacement for running the NUT Client, that is, only this binding is required to intergrate OpenHAB as a NUT Client.
 
 ## Binding Configuration
 
